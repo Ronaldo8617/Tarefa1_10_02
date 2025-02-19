@@ -22,8 +22,7 @@ Este projeto utiliza o Raspberry Pi Pico para controlar LEDs RGB, exibir um quad
 ## Como Usar
 1. Clonar o repositório do GitHub.
 2. Compilar e carregar o código no Raspberry Pi Pico.
-3. Conectar o joystick, LEDs e display OLED conforme as definições de pinos no código.
-4. Executar o programa para interagir com os LEDs e ver a movimentação do quadrado no display.
+3. Executar o programa para interagir com os LEDs e ver a movimentação do quadrado no display.
 
 ## Bibliotecas Utilizadas
 - `stdio.h` – Para entrada e saída de dados.
